@@ -1,0 +1,21 @@
+{
+    "project_info": {
+        "client_type": "Retail",
+        "description": "We are working for retail clients.",
+        "business_domain": "Retail Analytics",
+        "sales_channels": [
+            "Web",
+            "Mobile App",
+            "In-Store"
+        ],
+        "customer_segments": [
+            "Retail",
+            "Wholesale"
+        ],
+        "product_categories": [
+            "Electronics",
+            "Apparel",
+            "Groceries"
+        ]
+    }
+}
